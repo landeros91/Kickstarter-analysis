@@ -43,12 +43,12 @@ The challenge and difficulties were getting the functions correct from the begin
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-1. April through July show a higher successful theater launch dates.
-2. In August the successful launch date dipped down to 72, leading to further dip.
+ 1. April through July show a higher successful theater launch dates.
+ 2. In August the successful launch date dipped down to 72, leading to further dip.
 
 - What can you conclude about the Outcomes based on Goals?
-1. Line chart shows that Percentage Failed started to increase from 4999 to 29999 reaching 80%.
-2. Percentage Failed was more prominent in overall success.
+ 1. Line chart shows that Percentage Failed started to increase from 4999 to 29999 reaching 80%.
+ 2. Percentage Failed was more prominent in overall success.
 
 - What are some limitations of this dataset?
 It would have been more impactful to have data to have how many attended and consumer feedback.
