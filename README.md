@@ -15,7 +15,7 @@ Using the Kiskstarter sheet,I created a new column labeled "years" were I extrac
 - In August the successful launch date dipped down to 72, leading to further dip.
 - December both successful and failed launch date outcomes were off by 2 points.
  Please see visual for overview.
- ![Theater_Outcomes_vs_Launch]"C:\Users\lande\OneDrive\Desktop\Data Class\Class Folder\Module 1\Crowdfunding Analysis subfolder\resources\Theater_Outcomes_vs_Launch.png"
+ ![Theater_Outcomes_vs_Launch]("C:\Users\lande\OneDrive\Desktop\Data Class\Class Folder\Module 1\Crowdfunding Analysis subfolder\resources\Theater_Outcomes_vs_Launch.png")
 
 ### Analysis of Outcomes Based on Goals
 Gathered data from Kickstarter sheet to a new sheet labled "Outcomes Based on Goals". The Goals represent the dollar-amount range so projects can be grouped based on amount.
@@ -35,7 +35,7 @@ Gathered data from Kickstarter sheet to a new sheet labled "Outcomes Based on Go
 - Percentage Failed highs were at 45000 to 49999 reaching a value at 100%
 - Percentage Successful dipped dramitically 4500 to 49999 value at 0%
 Please see visual for overview:
-![Outcomes_vs_Goals]"C:\Users\lande\OneDrive\Desktop\Data Class\Class Folder\Module 1\Crowdfunding Analysis subfolder\resources\Outcomes_vs_Goals.png"
+![Outcomes_vs_Goals]("C:\Users\lande\OneDrive\Desktop\Data Class\Class Folder\Module 1\Crowdfunding Analysis subfolder\resources\Outcomes_vs_Goals.png")
 
 ### Challenges and Difficulties Encountered
 The challenge and difficulties were getting the functions correct from the beginning. If the fucntions were not correct, it throws of the final conclusion. It took roughly 2 hours for me to get the criteria and range correct in order for the functions to work. When I figured it out, it was trully successful! 
