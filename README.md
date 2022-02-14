@@ -15,6 +15,7 @@ Using the Kiskstarter sheet,I created a new column labeled "years" were I extrac
 - In August the successful launch date dipped down to 72, leading to further dip.
 - December both successful and failed launch date outcomes were off by 2 points.
  Please see visual for overview.
+ 
  ![Theater_Outcomes_vs_Launch](https://1drv.ms/u/s!Ag_TShBi5_duixUEbEui_7zen4SB?e=lT4RkG)
 
 ### Analysis of Outcomes Based on Goals
@@ -35,6 +36,7 @@ Gathered data from Kickstarter sheet to a new sheet labled "Outcomes Based on Go
 - Percentage Failed highs were at 45000 to 49999 reaching a value at 100%
 - Percentage Successful dipped dramitically 4500 to 49999 value at 0%
 Please see visual for overview:
+
 ![Outcomes_vs_Goals](https://1drv.ms/u/s!Ag_TShBi5_duixTtq2aQonFXwQ5-?e=hw7XuL)
 
 ### Challenges and Difficulties Encountered
