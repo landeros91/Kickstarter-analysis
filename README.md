@@ -12,7 +12,7 @@ Using the Kiskstarter sheet,I created a new column labeled "years" were I extrac
 
 ###### Analysis shows the following:
 - April through July show a higher successful theater launch dates.
-- In August the successful launch date dipped down to 72,leading to further dip.
+- In August the successful launch date dipped down to 72, leading to further dip.
 - December both successful and failed launch date outcomes were off by 2 points.
  Please see visual for overview.
  ![Theater_Outcomes_vs_Launch]"C:\Users\lande\OneDrive\Desktop\Data Class\Class Folder\Module 1\Crowdfunding Analysis subfolder\resources\Theater_Outcomes_vs_Launch.png"
