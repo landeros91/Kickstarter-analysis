@@ -16,7 +16,7 @@ Using the Kiskstarter sheet,I created a new column labeled "years" were I extrac
 - December both successful and failed launch date outcomes were off by 2 points.
  Please see visual for overview.
  
- ![Theater_Outcomes_vs_Launch](https://1drv.ms/u/s!Ag_TShBi5_duixUEbEui_7zen4SB?e=lT4RkG)
+ ![Theater_Outcomes_vs_Launch] https://1drv.ms/u/s!Ag_TShBi5_duixUEbEui_7zen4SB?e=lT4RkG
 
 ### Analysis of Outcomes Based on Goals
 Gathered data from Kickstarter sheet to a new sheet labled "Outcomes Based on Goals". The Goals represent the dollar-amount range so projects can be grouped based on amount.
@@ -37,7 +37,7 @@ Gathered data from Kickstarter sheet to a new sheet labled "Outcomes Based on Go
 - Percentage Successful dipped dramitically 4500 to 49999 value at 0%
 Please see visual for overview:
 
-![Outcomes_vs_Goals](https://1drv.ms/u/s!Ag_TShBi5_duixTtq2aQonFXwQ5-?e=hw7XuL)
+![Outcomes_vs_Goals] https://1drv.ms/u/s!Ag_TShBi5_duixTtq2aQonFXwQ5-?e=hw7XuL
 
 ### Challenges and Difficulties Encountered
 The challenge and difficulties were getting the functions correct from the beginning. If the fucntions were not correct, it throws of the final conclusion. It took roughly 2 hours for me to get the criteria and range correct in order for the functions to work. When I figured it out, it was trully successful! 
