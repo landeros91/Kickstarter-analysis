@@ -53,7 +53,9 @@ The challenge and difficulties were getting the functions correct from the begin
   2. Percentage Failed was more prominent in overall success.
 
 - What are some limitations of this dataset?
-It would have been more impactful to have data to have how many attended and consumer feedback.
+
+  It would have been more impactful to have data to have how many attended and consumer feedback.
 
 - What are some other possible tables and/or graphs that we could create?
-WE could created stacked cluster columns to see how performance is matched.
+
+  We could created stacked cluster columns to see how performance is matched.
