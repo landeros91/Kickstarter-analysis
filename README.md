@@ -35,6 +35,7 @@ Gathered data from Kickstarter sheet to a new sheet labled "Outcomes Based on Go
 - Percentage Successful had an increase from 30000 to 39999 reaching 67%.
 - Percentage Failed highs were at 45000 to 49999 reaching a value at 100%
 - Percentage Successful dipped dramitically 4500 to 49999 value at 0%
+
 Please see visual for overview:
 
 ![Outcomes_vs_Goals] https://1drv.ms/u/s!Ag_TShBi5_duixTtq2aQonFXwQ5-?e=hw7XuL
